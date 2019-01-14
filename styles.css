@@ -1,0 +1,41 @@
+html {
+    margin: auto 10px;
+    width: auto;
+    height: auto;
+    background-color: black;
+}
+
+
+iframe {
+}
+
+table {
+  background-color: gray
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+}
+
+
+
+body {
+  font-family: "Helvetica", sans-serif; color: white;
+}
+
+
+h1{
+  color: white; background-color: gray
+}
+
+h2 {
+  color: white;
+}
+
+footer {
+  color: white;
+  background-color: gray
+}
